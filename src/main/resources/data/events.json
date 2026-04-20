@@ -1,0 +1,15 @@
+[
+  {
+    "type": "fence_alert",
+    "location": "Gate 3",
+    "time": "01:20",
+    "severity": "low"
+  },
+  {
+    "type": "vehicle",
+    "location": "Storage Yard",
+    "time": "02:10",
+    "severity": "medium"
+  }
+  
+]
