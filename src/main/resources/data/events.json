@@ -10,6 +10,12 @@
     "location": "Storage Yard",
     "time": "02:10",
     "severity": "medium"
-  }
+  },
+  {
+      "type": "badge_failure",
+      "location": "Block C",
+      "time": "02:45",
+      "severity": "high"
+    }
   
 ]
